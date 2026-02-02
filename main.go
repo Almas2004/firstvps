@@ -19,7 +19,7 @@ func main() {
 			<title>Привет</title>
 			</head>
 			<body style="font-family: system-ui; padding: 40px;">
-			<h1>ПРИВЕТ МИР</h1>
+			<h1>ПРИВЕТ Almas</h1>
 			</body>
 			</html>
 		`))
